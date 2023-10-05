@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GuideLine.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/BeforeGameScene.unity
+    guid: 5b9a8c8e83fd12e46a7eec294d849c76
+  - enabled: 0
+    path: Assets/Scenes/InGameScene.unity
+    guid: 5ba418f6770901940be7b54251ffcad0
+  - enabled: 0
+    path: Assets/Game/KDY/BeforeGameScene.unity
+    guid: 73754ef80cec2f74ca4d5146ec51d2f5
+  - enabled: 1
+    path: Assets/Game/KDY/GameScene.unity
+    guid: a2066de2a20992c40bcdf19fdb10d711
   m_configObjects: {}
